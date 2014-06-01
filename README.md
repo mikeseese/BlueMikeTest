@@ -1,6 +1,5 @@
 BlueMikeTest
-Author: Mike Seese
-==================
+============
 
 This is test application for the Android library created by Mike Seese
 for the <a href="https://github.com/seesemichaelj/BlueMike">BlueMike</a> library.
